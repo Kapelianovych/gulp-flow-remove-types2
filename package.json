@@ -38,7 +38,7 @@
     "eslint-plugin-standard": "^4.0.1",
     "flow-bin": "^0.125.1",
     "gulp": "^4.0.2",
-    "gulp-uglify-es": "^2.0.0",
+    "gulp-uglify-es": "^3.0.0",
     "jest": "^26.0.1"
   }
 }
